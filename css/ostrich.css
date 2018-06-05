@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media all and (max-width: 866px;){
+@media screen only and (max-width: 866px;){
 
   #ostrich{
     position: fixed;
